@@ -2,3 +2,12 @@
 transform: scale(1.05)
 }
 
+/* @media(orientatio:portrait){ */
+/* @media(min-width:500px) and (max-width:600px)
+{
+
+    
+    #img{
+        width: 50%;
+    } */
+/* } */
